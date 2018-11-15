@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the first day of the rest of your life
 
-You can use the [editor on GitHub](https://github.com/Pol-Btr/pol-btr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi everybody, this is my portfolio as you can read in the title and in the subtitle. My name is Pol, as you can also read in the title and in the subtitle. Maybe you are asking yourself why i'm writing, don't look to me for answers, i don't know.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
