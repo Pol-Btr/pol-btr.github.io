@@ -14,7 +14,7 @@ Nowadays I'm coursing my Bachellor degree at Virolai School.
 
 ### Big data
 
-This pages was made during Big Data optative, with Jose Luís Tourón's help. It uses some layouta and styles from the Jekyll theme.
+This pages was made during Big Data optative, with José Luís Tourón's help. It uses some layouts and styles from the Jekyll theme.
 
 ### Support or Contact
 
