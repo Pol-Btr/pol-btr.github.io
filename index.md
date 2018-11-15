@@ -2,36 +2,21 @@
 
 Hi everybody, this is my portfolio as you can read in the title and in the subtitle. My name is Pol, as you can also read in the title and in the subtitle. Maybe you are asking yourself why i'm writing, don't look to me for answers, i don't know.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And look forward to my growing old, to grow is to change, to change is to be new,
+to be new is to be young again, I barely remember when.
 
-### Markdown
+My memories are stolen by the morning, blotted out by the suns hypnotic eye.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### School
 
-```markdown
-Syntax highlighted code block
+Nowadays I'm coursing my Bachellor degree at Virolai School.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Big data
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pol-Btr/pol-btr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This pages was made during Big Data optative, with Jose Luís Tourón's help. It uses some layouta and styles from the Jekyll theme.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with my portfolio? Check out our [contact support](https://github.com/contact) and they’ll help you sort it out.
+Also, if you want to talk with me send me an E-mail to: pbuitrago@virolai.com
